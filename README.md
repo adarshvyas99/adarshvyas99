@@ -3,17 +3,12 @@
 <h1 align="center">Hi 👋, I'm Adarsh Vyas</h1>
 <h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation Advocate</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshvyas99&label=Profile%20views&color=0e75b6&style=flat" alt="adarshvyas99 profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
 
 - 🌱 Currently learning **Agentic AI, System Design and advanced DevSecOps CI/CD pipelines**
 - 💼 Working as a **DevOps Engineer**, passionate about cloud-native infrastructure and automation
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/adarshvyas99) | [Email](mailto:adarshvyas99@gmail.com)
 
 ---
 
@@ -24,6 +19,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -38,36 +34,12 @@
 </p>
 
 ---
-
-## 🔥 Featured Projects
-
-- [Project 1: Automated CI/CD Pipeline with Jenkins & Docker](https://github.com/adarshvyas99/project-jenkins-docker)  
-  *A robust pipeline for building, testing, and deploying microservices.*
-
-- [Project 2: Infrastructure as Code with Terraform & AWS](https://github.com/adarshvyas99/project-terraform-aws)  
-  *Automated cloud infrastructure provisioning using Terraform.*
-
-- [Project 3: Kubernetes Cluster Setup & Monitoring](https://github.com/adarshvyas99/project-k8s-monitoring)  
-  *Production-grade Kubernetes cluster with Prometheus & Grafana monitoring.*
-
----
-
 ## 🏆 Certifications
 
 - AWS Certified Solutions Architect Associate
 - Red Hat Certified System Administrator
 - Red Hat Certified Engineer
 - Microsoft Azure Fundamentals
-
----
-
-## 🌱 Interests
-
-- Cloud computing & serverless architectures
-- Automation & infrastructure as code
-- Open source contributions
-- Continuous improvement
-
 ---
 
 ## 🤝 Let’s Connect!
